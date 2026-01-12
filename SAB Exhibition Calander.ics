@@ -2,7 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Exhibition Calendar//KO
 CALSCALE:GREGORIAN
-X-WR-CALNAME:SAB Exhibition Calander 
+X-WR-CALNAME:서울옥션블루 전시 일정 캘린더EGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Exhibition Calendar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:서울옥션블루 전시 캘린더
 X-WR-TIMEZONE:Asia/Seoul
 X-WR-CALDESC:국내 전시 일정을 한눈에!
 
@@ -331,6 +335,7 @@ DESCRIPTION:~26/10/31
 END:VEVENT
 
 END:VCALENDAR
+
 
 
 
